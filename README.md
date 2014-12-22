@@ -37,22 +37,8 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-MORIEMINI.A VERIE PROFITABLE SERMON PREACHED before her Maieſtie at the Court, about xiij. yeares ſi〈1 page missing〉 euen great enuie tovvards ſuch as are godly and vvell affected; he vvill in that re
+Moriemini. A verie profitable sermon preached before her Maiestie at the court, about xiij. yeares s
 #####Body#####
-
-1. A VERIE PROFITABLE SERMON PREACHED BEFORE her Maieſtie at the Court, about xiij. years ſince, by H. B.
-
-    _ I haue ſayd, ye are Gods: But ye shall die like men.
-
-    _ I haue ſayd, yee are Gods.
-
-    _ I haue ſayd, yee are Gods.
-
-    _ I haue ſayd, yee are Gods.
-
-    _ But yee shall dye.
-
-    _ Lyke men.
 
 **Types of content**
 
@@ -87,32 +73,28 @@ There are 7 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|7||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|7||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -120,22 +102,20 @@ There are 7 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|1||
-|2.|__body__|1||
-|3.|__closer__|4||
-|4.|__desc__|7||
-|5.|__div__|9| @__type__ (9) : title_page (1), to_the_reader (1), sermon (1), part (6)|
-|6.|__epigraph__|1||
-|7.|__figure__|1||
-|8.|__front__|1||
-|9.|__g__|108| @__ref__ (108) : char:EOLhyphen (99), char:cmbAbbrStroke (8), char:punc (1)|
-|10.|__gap__|7| @__reason__ (7) : missing (1), foreign (2), illegible (4)  •  @__extent__ (5) : 1 page (1), 1 letter (4)  •  @__resp__ (4) : #APEX (4)|
-|11.|__head__|7||
-|12.|__hi__|119||
-|13.|__item__|18||
-|14.|__list__|7||
-|15.|__note__|76| @__place__ (76) : margin (76)|
-|16.|__p__|119||
-|17.|__pb__|27| @__facs__ (27) : tcp:19523:1 (2), tcp:19523:2 (2), tcp:19523:3 (2), tcp:19523:4 (2), tcp:19523:5 (2), tcp:19523:6 (2), tcp:19523:7 (2), tcp:19523:8 (2), tcp:19523:9 (2), tcp:19523:10 (2), tcp:19523:11 (2), tcp:19523:12 (2), tcp:19523:13 (2), tcp:19523:14 (1)  •  @__rendition__ (1) : simple:additions (1)  •  @__n__ (24) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1)|
-|18.|__q__|3||
-|19.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|20.|__trailer__|1||
+|2.|__closer__|4||
+|3.|__desc__|7||
+|4.|__div__|9| @__type__ (9) : title_page (1), to_the_reader (1), sermon (1), part (6)|
+|5.|__epigraph__|1||
+|6.|__figure__|1||
+|7.|__g__|108| @__ref__ (108) : char:EOLhyphen (99), char:cmbAbbrStroke (8), char:punc (1)|
+|8.|__gap__|7| @__reason__ (7) : missing (1), foreign (2), illegible (4)  •  @__extent__ (5) : 1 page (1), 1 letter (4)  •  @__resp__ (4) : #APEX (4)|
+|9.|__head__|7||
+|10.|__hi__|119||
+|11.|__item__|18||
+|12.|__list__|7||
+|13.|__note__|76| @__place__ (76) : margin (76)|
+|14.|__p__|119||
+|15.|__pb__|27| @__facs__ (27) : tcp:19523:1 (2), tcp:19523:2 (2), tcp:19523:3 (2), tcp:19523:4 (2), tcp:19523:5 (2), tcp:19523:6 (2), tcp:19523:7 (2), tcp:19523:8 (2), tcp:19523:9 (2), tcp:19523:10 (2), tcp:19523:11 (2), tcp:19523:12 (2), tcp:19523:13 (2), tcp:19523:14 (1)  •  @__rendition__ (1) : simple:additions (1)  •  @__n__ (24) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1)|
+|16.|__q__|3||
+|17.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|18.|__trailer__|1||
