@@ -37,8 +37,22 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Moriemini. A verie profitable sermon preached before her Maiestie at the court, about xiij. yeares s
+〈1 page missing〉 euen great enuie tovvards ſuch as are godly and vvell affected; he vvill in that re
 #####Body#####
+
+1. A VERIE PROFITABLE SERMON PREACHED BEFORE her Maieſtie at the Court, about xiij. years ſince, by H. B.
+
+    _ I haue ſayd, ye are Gods: But ye shall die like men.
+
+    _ I haue ſayd, yee are Gods.
+
+    _ I haue ſayd, yee are Gods.
+
+    _ I haue ſayd, yee are Gods.
+
+    _ But yee shall dye.
+
+    _ Lyke men.
 
 **Types of content**
 
